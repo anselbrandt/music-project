@@ -7,3 +7,5 @@
 [music21](https://github.com/cuthbertLab/music21) - a Toolkit for Computational Musicology
 
 [mido](https://github.com/mido/mido) - MIDI Objects for Python
+
+[note-seq](https://github.com/magenta/note-seq) - A serializable note sequence representation and utilities.
