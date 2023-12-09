@@ -1,6 +1,6 @@
 # Libraries
 
-[MUSEpy](https://github.com/afmcl/MUSEpy) - A python-based analysis tool for MUSE data
+[MusPy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 
 [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 
