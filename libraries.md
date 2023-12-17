@@ -11,3 +11,5 @@
 [note-seq](https://github.com/magenta/note-seq) - A serializable note sequence representation and utilities.
 
 [pretty_midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
+
+[MidiTok](https://github.com/Natooz/MidiTok/tree/main) - MIDI / symbolic music tokenizers for Deep Learning models
